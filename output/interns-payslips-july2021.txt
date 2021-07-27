@@ -1,18 +1,5 @@
 _______________________________
 Payroll Date   : July 31, 2021
-ID             : 2021020
-Base Pay       : 4500.0
--------------------------------
-Hours Rendered : 18
--------------------------------
-Prorated Pay   : 4050.0
-Overtime Pay   : 0.0
-WFH Allowance  : 300
-Takehome Pay   : 4350.0
-
-
-_______________________________
-Payroll Date   : July 31, 2021
 ID             : 2021001
 Base Pay       : 4500.0
 -------------------------------
@@ -184,7 +171,7 @@ Hours Rendered : 22
 -------------------------------
 Prorated Pay   : 4950.0
 Overtime Pay   : 900.0
-Takehome Pay   : 5850.0
+Takehome Pay   : 5400.0
 
 
 _______________________________
@@ -210,7 +197,7 @@ Hours Rendered : 25
 Prorated Pay   : 5625.0
 Overtime Pay   : 2250.0
 WFH Allowance  : 300
-Takehome Pay   : 8175.0
+Takehome Pay   : 7050.0
 
 
 _______________________________
