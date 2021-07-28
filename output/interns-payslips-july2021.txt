@@ -1,18 +1,5 @@
 _______________________________
 Payroll Date   : July 31, 2021
-ID             : 2021020
-Base Pay       : 4500.0
--------------------------------
-Hours Rendered : 18
--------------------------------
-Prorated Pay   : 4050.0
-Overtime Pay   : 0.0
-WFH Allowance  : 300
-Takehome Pay   : 4350.0
-
-
-_______________________________
-Payroll Date   : July 31, 2021
 ID             : 2021001
 Base Pay       : 4500.0
 -------------------------------
@@ -20,7 +7,7 @@ Hours Rendered : 20
 -------------------------------
 Prorated Pay   : 4500.0
 Overtime Pay   : 0.0
-WFH Allowance  : 300
+WFH Allowance  : 300.0
 Takehome Pay   : 4800.0
 
 
@@ -33,7 +20,7 @@ Hours Rendered : 17
 -------------------------------
 Prorated Pay   : 2975.0
 Overtime Pay   : 0.0
-WFH Allowance  : 300
+WFH Allowance  : 300.0
 Takehome Pay   : 3275.0
 
 
@@ -46,7 +33,7 @@ Hours Rendered : 16
 -------------------------------
 Prorated Pay   : 3600.0
 Overtime Pay   : 0.0
-WFH Allowance  : 300
+WFH Allowance  : 300.0
 Takehome Pay   : 3900.0
 
 
@@ -59,7 +46,7 @@ Hours Rendered : 15
 -------------------------------
 Prorated Pay   : 3375.0
 Overtime Pay   : 0.0
-WFH Allowance  : 300
+WFH Allowance  : 300.0
 Takehome Pay   : 3675.0
 
 
@@ -72,7 +59,7 @@ Hours Rendered : 16
 -------------------------------
 Prorated Pay   : 4800.0
 Overtime Pay   : 0.0
-WFH Allowance  : 300
+WFH Allowance  : 300.0
 Takehome Pay   : 5100.0
 
 
@@ -85,7 +72,7 @@ Hours Rendered : 18
 -------------------------------
 Prorated Pay   : 4050.0
 Overtime Pay   : 0.0
-WFH Allowance  : 300
+WFH Allowance  : 300.0
 Takehome Pay   : 4350.0
 
 
@@ -98,7 +85,7 @@ Hours Rendered : 17
 -------------------------------
 Prorated Pay   : 4250.0
 Overtime Pay   : 0.0
-WFH Allowance  : 300
+WFH Allowance  : 300.0
 Takehome Pay   : 4550.0
 
 
@@ -111,7 +98,7 @@ Hours Rendered : 17
 -------------------------------
 Prorated Pay   : 3825.0
 Overtime Pay   : 0.0
-WFH Allowance  : 300
+WFH Allowance  : 300.0
 Takehome Pay   : 4125.0
 
 
@@ -196,7 +183,7 @@ Hours Rendered : 20
 -------------------------------
 Prorated Pay   : 5000.0
 Overtime Pay   : 0.0
-WFH Allowance  : 300
+WFH Allowance  : 300.0
 Takehome Pay   : 5300.0
 
 
@@ -209,7 +196,7 @@ Hours Rendered : 25
 -------------------------------
 Prorated Pay   : 4500.0
 Overtime Pay   : 2250.0
-WFH Allowance  : 300
+WFH Allowance  : 300.0
 Takehome Pay   : 7050.0
 
 
@@ -222,7 +209,7 @@ Hours Rendered : 20
 -------------------------------
 Prorated Pay   : 6000.0
 Overtime Pay   : 0.0
-WFH Allowance  : 300
+WFH Allowance  : 300.0
 Takehome Pay   : 6300.0
 
 
@@ -235,7 +222,7 @@ Hours Rendered : 17
 -------------------------------
 Prorated Pay   : 2975.0
 Overtime Pay   : 0.0
-WFH Allowance  : 300
+WFH Allowance  : 300.0
 Takehome Pay   : 3275.0
 
 
@@ -248,7 +235,7 @@ Hours Rendered : 20
 -------------------------------
 Prorated Pay   : 4500.0
 Overtime Pay   : 0.0
-WFH Allowance  : 300
+WFH Allowance  : 300.0
 Takehome Pay   : 4800.0
 
 
